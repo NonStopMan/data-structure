@@ -1,0 +1,11 @@
+f:\Training\Code\data-structure\bin\Debug\netcoreapp2.0\data-structure.deps.json
+f:\Training\Code\data-structure\bin\Debug\netcoreapp2.0\data-structure.runtimeconfig.json
+f:\Training\Code\data-structure\bin\Debug\netcoreapp2.0\data-structure.runtimeconfig.dev.json
+f:\Training\Code\data-structure\bin\Debug\netcoreapp2.0\data-structure.dll
+f:\Training\Code\data-structure\bin\Debug\netcoreapp2.0\data-structure.pdb
+f:\Training\Code\data-structure\obj\Debug\netcoreapp2.0\data-structure.csprojResolveAssemblyReference.cache
+f:\Training\Code\data-structure\obj\Debug\netcoreapp2.0\data-structure.csproj.CoreCompileInputs.cache
+f:\Training\Code\data-structure\obj\Debug\netcoreapp2.0\data-structure.AssemblyInfoInputs.cache
+f:\Training\Code\data-structure\obj\Debug\netcoreapp2.0\data-structure.AssemblyInfo.cs
+f:\Training\Code\data-structure\obj\Debug\netcoreapp2.0\data-structure.dll
+f:\Training\Code\data-structure\obj\Debug\netcoreapp2.0\data-structure.pdb
